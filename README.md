@@ -13,7 +13,8 @@ Obrigada 🚀 [Rocketseat](https://nextlevelweek.com/inscricao/3) por estar nos 
 - [React-icons](https://react-icons.github.io/react-icons/)
 - [React-router-dom](https://reactrouter.com/web/guides/quick-start)
 - [Express](https://www.npmjs.com/package/express)
-- [Leaflet](https://leafletjs.com/) / [react-leaflet](https://react-leaflet.js.org/) (usar mapas na aplicação)
+- [Leaflet](https://leafletjs.com/) / [react-leaflet](https://react-leaflet.js.org/) (usar mapas na aplicação).
+
 This project was bootstrapped with [Create React App](https://pt-br.reactjs.org/docs/create-a-new-react-app.html).
 
 ## Aulas
