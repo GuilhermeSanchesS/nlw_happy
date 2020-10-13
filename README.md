@@ -1,4 +1,4 @@
-# <NLW/> #3 - Happy 👨‍👩‍👧‍👦
+# NLW #3 - Happy 👨‍👩‍👧‍👦
 <div style="text-align:center">
   <img src="https://media-exp1.licdn.com/dms/image/C4D2DAQEZJxqTryypsQ/profile-treasury-image-shrink_1280_1280/0?e=1602687600&v=beta&t=nTnCkWtz58qYfjgK2wOPyc3olF0U3n2n6NcXzuu34No">
 </div>
